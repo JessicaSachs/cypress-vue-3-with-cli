@@ -17,7 +17,7 @@ A larger, TS example can be found [here](https://github.com/elevatebart/calc)
 ✨ Webpack-based, uses the user-provided config
 
 ## Cypress Setup
-```sh
+```shell
   yarn install
   
   yarn tdd # Interactive Mode
