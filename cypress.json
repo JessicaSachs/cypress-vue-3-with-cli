@@ -1,0 +1,10 @@
+{
+  "experimentalComponentTesting": true,
+  "componentFolder": "src",
+  "testFiles": "**/*.spec.*",
+  "pluginsFile": "./plugins.js",
+  "fixtures": false,
+  "supportFile": false,
+  "video": false,
+  "fixturesFolder": false
+}
