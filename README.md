@@ -5,10 +5,15 @@ A larger, TS example can be found [here](https://github.com/elevatebart/calc)
 
 ## Features
 ✨ Browser-based TDD for Components
+
 ✨ Watch mode
+
 ✨ Real Browser API
+
 ✨ Polyfill-free
+
 ✨ First-class Network Stubbing
+
 ✨ Webpack-based, uses the user-provided config
 
 ## Cypress Setup
