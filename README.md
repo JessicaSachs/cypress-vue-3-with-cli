@@ -17,15 +17,10 @@ A larger, TS example can be found [here](https://github.com/elevatebart/calc)
 ✨ Webpack-based, uses the user-provided config
 
 ## Cypress Setup
-```shell
-  yarn install
-  
-  yarn tdd # Interactive Mode
 
-  ## CI mode is currently SLOW because it restarts the browser
-  ## The next release speeds up this time by > 200% and reuses the browser instance
-  yarn ci # Run mode
-```
+1. Dependency install `yarn install`
+2. Open Mode `yarn tdd`
+3. Run headlessly in CI `yarn ci` (NOTE: this is very slow, but we have a fix coming out soon)
 
 ### Usage
 1. Use the DOM to make assertions.
