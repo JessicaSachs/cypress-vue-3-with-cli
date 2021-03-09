@@ -3,9 +3,16 @@ This project is a Vue 3 + Vue CLI boilerplate for the _private release_ of Cypre
 
 A larger, TS example can be found [here](https://github.com/elevatebart/calc)
 
+## Features
+✨ Browser-based TDD for Components
+✨ Watch mode
+✨ Real Browser API
+✨ Polyfill-free
+✨ First-class Network Stubbing
+✨ Webpack-based, uses the user-provided config
 
 ## Cypress Setup
-```
+```sh
   yarn install
   
   yarn tdd # Interactive Mode
@@ -29,22 +36,22 @@ A larger, TS example can be found [here](https://github.com/elevatebart/calc)
 ## Project setup
 When working without Component Tests, doing normal app-level development
 
-```
+```sh
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
+```sh
 yarn serve
 ```
 
 ### Compiles and minifies for production
-```
+```sh
 yarn build
 ```
 
 ### Lints and fixes files
-```
+```sh
 yarn lint
 ```
 
